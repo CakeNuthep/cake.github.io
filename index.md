@@ -26,6 +26,7 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
+[![](http://img.youtube.com/vi/ejPXZorkOws/0.jpg)](http://www.youtube.com/watch?v=ejPXZorkOws "ASR Command")
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
